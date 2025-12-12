@@ -1,2 +1,3 @@
 # Design-Final
-![Infographic](Design-Final/Infographic.png)
+
+![](Design%20Final%20Infographic.png)
